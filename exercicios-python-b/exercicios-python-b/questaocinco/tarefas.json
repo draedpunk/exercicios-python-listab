@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Pintar as unhas",
+        "abreviacao": "PAU",
+        "descricao": "Pintar as unhas com o esmalte escolhido da vez."
+    },
+    {
+        "titulo": "Pintar o cabelo",
+        "abreviacao": "POC",
+        "descricao": "Retocar a raiz e tonalizar o comprimento com tintas na cor roxa."
+    },
+    {
+        "titulo": "Estudar python",
+        "abreviacao": "EP",
+        "descricao": "Realizar uma lista de exercícios em python."
+    }
+]

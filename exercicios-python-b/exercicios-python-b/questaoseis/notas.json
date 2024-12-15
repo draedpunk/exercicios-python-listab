@@ -1,0 +1,32 @@
+[
+    {
+        "aluno": "Alice Silva",
+        "num": 9.0,
+        "ndois": 7.0,
+        "ntres": 10.0
+    },
+    {
+        "aluno": "Bruno Oliveira",
+        "num": 8.0,
+        "ndois": 7.5,
+        "ntres": 9.0
+    },
+    {
+        "aluno": "Carlos Souza",
+        "num": 5.0,
+        "ndois": 6.0,
+        "ntres": 4.5
+    },
+    {
+        "aluno": "Pamela",
+        "num": 4.0,
+        "ndois": 7.8,
+        "ntres": 9.1
+    },
+    {
+        "aluno": "Vladmir",
+        "num": 8.6,
+        "ndois": 7.5,
+        "ntres": 8.8
+    }
+]
